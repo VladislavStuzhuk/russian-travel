@@ -1,0 +1,25 @@
+.place__main-text{
+  max-width: 484px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+  .place__main-text{
+    min-width: 456px;
+    gap: 27px;
+  }
+}
+@media screen  and (min-width: 768px) and (max-width: 1023px){
+  .place__main-text{
+    min-width: 352px;
+    gap: 25px;
+  }
+}
+@media screen and (max-width: 767px){
+  .place__main-text{
+    width: calc(100% - 32px);
+    gap: 25px;
+    margin: auto;
+  }
+}

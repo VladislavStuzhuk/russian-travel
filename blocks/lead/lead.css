@@ -1,0 +1,17 @@
+.lead{
+  color: #fff;
+  max-width: 984px; 
+  margin: auto;
+  text-align: center;
+  margin-top: 48px;
+}
+@media screen and (min-width: 1024px) {
+  .lead{
+    width: calc(100% - 96px);
+  }
+}
+@media screen and (min-width: 1280px) {
+  .lead{
+    margin-top: 56px;
+  }
+}
