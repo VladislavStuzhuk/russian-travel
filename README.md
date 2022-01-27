@@ -12,4 +12,4 @@ ___
 #### Страница поддерживается на устройствах с шириной от 320px.
 ___
 # GitHub
-# https://github.com/VladislavStuzhuk
+# https://vladislavstuzhuk.github.io/russian-travel/index.html
