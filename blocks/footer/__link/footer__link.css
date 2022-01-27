@@ -1,7 +1,7 @@
 .footer__link{
   color: #fff;
   text-decoration: none;
-  padding-right: 18px;
+  margin-right: 18px;
   font-size: 16px;
   line-height: 18px;
   font-weight: 400;
@@ -9,7 +9,7 @@
 }
 @media screen and (max-width: 767px){
   .footer__link{
-    padding-right: 0;
+    margin-right: 0;
     font-size: 24px;
     line-height: 24px;
   }
